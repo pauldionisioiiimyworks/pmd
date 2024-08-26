@@ -1,4 +1,4 @@
-@import "/src/data/styles.css";
+@import "./data/styles.css";
 
 ::-webkit-scrollbar {
 	width: 10px;
@@ -31,7 +31,7 @@
 	width: calc((100% - 1200px) / 2);
 	background-color: #fafafa;
 	border: 1px solid #f4f4f5;
-	margin: 10%;
+	margin: 5%;
 }
 
 .page-content:before {
