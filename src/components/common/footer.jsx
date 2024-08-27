@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import "./styles/footer.css";
 
 const Footer = () => {
+	const currentYear = new Date().getFullYear();
 	return (
 		<React.Fragment>
 			<div className="footer">
@@ -29,7 +30,7 @@ const Footer = () => {
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© 2023 Tharindu.dev. All Rights Reserved.
+      					<div>&copy; {currentYear} @QuizWhizTimeReal All Rights Reserved.</div> 
 					</div>
 				</div>
 			</div>
