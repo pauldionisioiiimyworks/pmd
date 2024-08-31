@@ -1,7 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faLink } from "@fortawesome/free-solid-svg-icons";
+import { faLink, faPlay } from "@fortawesome/free-solid-svg-icons";
+import MovieClip from "../homepage/movieclip";
 
 import "./styles/project.css";
 
@@ -17,10 +18,10 @@ const Project = (props) => {
 							<img src={logo} alt="logo" />
 						</div>
 						<div className="project-title">{title}</div>
-						<div className="project-description">{description}</div>
+						<div className="project-description"><MovieClip /></div>
 						<div className="project-link">
 							<div className="project-link-icon">
-								<FontAwesomeIcon icon={faLink} />
+								<FontAwesomeIcon icon={faPlay} />
 							</div>
 
 							<div className="project-link-text">{linkText}</div>
