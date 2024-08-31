@@ -3,7 +3,7 @@ const INFO = {
 		title: "Reactfolio by truethari",
 		name: "Quiz Master",
 		email: "paulmdionisioiii@yahoo.com",
-		logo: "../logo.png",
+		logo: "../quizwhiz-logo.jpg",
 	},
 
 	socials: {
@@ -35,48 +35,48 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Think Fast: Solve This Tricky Riddle!",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			logo: "../quizwhiz-logo.jpg",
+			linkText: "Like Share And Subscribe",
+			link: "https://www.youtube.com/@QuizWhizTimeReal",
 		},
 
 		{
-			title: "Project 2",
+			title: "Think Fast: Solve This Tricky Riddle!",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			logo: "../quizwhiz-logo.jpg",
+			linkText: "Like Share And Subscribe",
+			link: "https://www.youtube.com/@QuizWhizTimeReal",
 		},
 
 		{
-			title: "Project 3",
+			title: "Think Fast: Solve This Tricky Riddle!",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			logo: "../quizwhiz-logo.jpg",
+			linkText: "Like Share And Subscribe",
+			link: "https://www.youtube.com/@QuizWhizTimeReal",
 		},
 
 		{
-			title: "Project 4",
+			title: "Curious Minds Wanted: Only a 25% chance of guessing. Can you do it?",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			logo: "../quizwhiz-logo.jpg",
+			linkText: "Like Share And Subscribe",
+			link: "https://www.youtube.com/@QuizWhizTimeReal",
 		},
 
 		{
-			title: "Project 5",
+			title: "Fact Or False? Check yourself and smile!",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			logo: "../quizwhiz-logo.jpg",
+			linkText: "Like Share And Subscribe",
+			link: "https://www.youtube.com/@QuizWhizTimeReal",
 		},
 	],
 };
