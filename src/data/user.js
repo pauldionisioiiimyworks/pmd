@@ -39,8 +39,8 @@ const INFO = {
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "../quizwhiz-logo.jpg",
-			linkText: "Like Share And Subscribe",
-			link: "https://www.youtube.com/@QuizWhizTimeReal",
+			linkText: "@QuizWhizTimeReal",
+			link: "8Vwr5xt_348",
 		},
 
 		{
@@ -48,8 +48,8 @@ const INFO = {
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "../quizwhiz-logo.jpg",
-			linkText: "Like Share And Subscribe",
-			link: "https://www.youtube.com/@QuizWhizTimeReal",
+			linkText: "@QuizWhizTimeReal",
+			link: "8Vwr5xt_348",
 		},
 
 		{
@@ -57,26 +57,26 @@ const INFO = {
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "../quizwhiz-logo.jpg",
-			linkText: "Like Share And Subscribe",
-			link: "https://www.youtube.com/@QuizWhizTimeReal",
+			linkText: "@QuizWhizTimeReal",
+			link: "8Vwr5xt_348",
 		},
 
 		{
-			title: "Curious Minds Wanted: Only a 25% chance of guessing. Can you do it?",
+			title: "Think Fast: Solve This Tricky Riddle!",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "../quizwhiz-logo.jpg",
-			linkText: "Like Share And Subscribe",
-			link: "https://www.youtube.com/@QuizWhizTimeReal",
+			linkText: "@QuizWhizTimeReal",
+			link: "DVJ7DxSLTho",
 		},
 
 		{
-			title: "Fact Or False? Check yourself and smile!",
+			title: "Think Fast: Solve This Tricky Riddle!",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "../quizwhiz-logo.jpg",
-			linkText: "Like Share And Subscribe",
-			link: "https://www.youtube.com/@QuizWhizTimeReal",
+			linkText: "@QuizWhizTimeReal",
+			link: "DVJ7DxSLTho",
 		},
 	],
 };
