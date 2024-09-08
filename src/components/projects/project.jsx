@@ -18,7 +18,7 @@ const Project = (props) => {
 							<img src={logo} alt="logo" />
 						</div>
 						<div className="project-title">{title}</div>
-						<div className="project-description"><MovieClip /></div>
+						<div className="project-description"><MovieClip link={link}/></div>
 						<div className="project-link">
 							<div className="project-link-icon">
 								<FontAwesomeIcon icon={faPlay} />

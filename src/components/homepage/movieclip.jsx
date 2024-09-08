@@ -13,7 +13,7 @@ import YouTube from "react-youtube";
         },
       };
   
-      return <YouTube videoId="DVJ7DxSLTho" options={options} onReady={this._onReady} id="video"/>;
+      return <YouTube videoId={this.props.link} options={options} onReady={this._onReady} id="video"/>;
     }
   
     _onReady(event) {
