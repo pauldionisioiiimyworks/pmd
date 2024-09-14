@@ -1,6 +1,6 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
+		title: "@QuizWhizTimeReal",
 		name: "Quiz Master",
 		email: "paulmdionisioiii@yahoo.com",
 		logo: "../quizwhiz-logo.jpg",
@@ -22,15 +22,15 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Quiz Master from the Galaxy X, where I design the future.",
+		title: "Welcome, everyone, to Quiz Whiz Time!",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I’m Quizmaster Quinn, your quiz master for today’s thrilling journey through knowledge, fun, and friendly competition. As your quiz master, my job is to guide you through a series of thought-provoking questions, quirky challenges, and brain-teasing puzzles that will test your wit and wisdom. Whether you're a trivia novice or a seasoned quiz enthusiast, I promise you an experience full of excitement and surprises. So, get ready to put your thinking caps on and have a blast. Remember, it’s not just about winning; it’s about enjoying the ride and learning something new along the way! Let’s dive in and see who will emerge as the ultimate quiz champion. Are you ready? Let the games begin!",
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "Adaptive Learning technologies will offer real-time feedback and adjust difficulty based on learners' progress, making the experience more effective and engaging.",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"The future of online education is poised to be more personalized, interactive, and accessible.",
 	},
 
 	projects: [

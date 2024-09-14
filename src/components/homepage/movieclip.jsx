@@ -5,8 +5,8 @@ import YouTube from "react-youtube";
  class MovieClip extends React.Component {
     render() {
       const options = {
-        height: '390',
-        width: '640',
+        height: 'auto',
+        width: 'auto',
         playerVars: {
           autoplay: 1,
           controls: 1,

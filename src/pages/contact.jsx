@@ -44,32 +44,18 @@ const Contact = () => {
 						</div>
 
 						<div className="subtitle contact-subtitle">
-							Thank you for your interest in getting in touch with
-							me. I welcome your feedback, questions, and
-							suggestions. If you have a specific question or
-							comment, please feel free to email me directly at
-							&nbsp;{" "}
-							<a href={`mailto:${INFO.main.email}`}>
+
+						Are you looking to collaborate on an exciting project or explore partnership opportunities? 
+						I love working with fellow creators, brands, and organizations to produce engaging content that inspires and educates. 
+						Whether it’s co-creating videos, developing educational content, or brainstorming new ideas, I’m always open to new and creative ventures! 
+						Feel free to reach out to discuss potential collaborations or ask any questions. You can contact me via:
+
+						&nbsp;<a href={`mailto:${INFO.main.email}`}>
 								{INFO.main.email}
-							</a>
-							. I make an effort to respond to all messages within
-							24 hours, although it may take me longer during busy
-							periods. Alternatively, you can use the contact form
-							on my website to get in touch. Simply fill out the
-							required fields and I'll get back to you as soon as
-							possible. Finally, if you prefer to connect on
-							social media, you can find me on{" "}
-							<a
-								href={INFO.socials.instagram}
-								target="_blank"
-								rel="noreferrer"
-							>
-								{INFO.socials.instagram}
-							</a>
-							. I post regular updates and engage with my
-							followers there, so don't hesitate to reach out.
-							Thanks again for your interest, and I look forward
-							to hearing from you!
+					
+						&nbsp;</a> Or simply send me a message through <a href="https://web.facebook.com/profile.php?id=61564860044193">Quizwhiztimereal</a> FB Page.
+
+						Let’s create something amazing together!	
 						</div>
 					</div>
 

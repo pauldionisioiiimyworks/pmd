@@ -39,25 +39,14 @@ const Projects = () => {
 					</div>
 					<div className="projects-container">
 						<div className="title projects-title">
-							Things I’ve made trying to put my dent in the
-							universe.
+						Where Fun Meets Learning: A World of Creative Kids’ Content
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							I've worked on a variety of projects over the years
-							and I'm proud of the progress I've made. Many of
-							these projects are open-source and available for
-							others to explore and contribute to. If you're
-							interested in any of the projects I've worked on,
-							please feel free to check out the code and suggest
-							any improvements or enhancements you might have in
-							mind. Collaborating with others is a great way to
-							learn and grow, and I'm always open to new ideas and
-							feedback.
-						</div>
-
-						<div className="projects-list">
-							<AllProjects />
+						Quizmaster Quinn is a passionate Quiz content creator with a knack for children storytelling. With a focus on educational entertainment, Quizmaster Quinn consistently delivers high-quality, engaging, and informative content that resonates with kids learning.
+						With a growing community of @QuizWhizTimeReal, Quizmaster Quinn aims to inspire, educate and entertain through interactive channel. 
+						Known for educational value, Quizmaster Quinn's content stands out for unique selling point.
+						When not creating content, Quizmaster Quinn enjoys music, which often inspire fresh and relatable ideas for @QuizWhizTimeReal followers. Follow @QuizWhizTimeReal for regular updates on quiz show and join the conversation!
 						</div>
 					</div>
 					<div className="page-footer">

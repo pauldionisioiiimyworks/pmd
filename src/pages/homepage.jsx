@@ -171,9 +171,9 @@ const Homepage = () => {
 							<MovieClip link="DVJ7DxSLTho"/>
 						</div>
 
-						<div className="homepage-projects">
+						{/* <div className="homepage-projects">
 							<AllProjects />
-						</div>
+						</div> */}
 
 						<div className="homepage-after-title">
 							<div className="homepage-articles">
