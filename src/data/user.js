@@ -10,7 +10,7 @@ const INFO = {
 		twitter: "https://x.com/",
 		github: "https://github.com/pauldionisioiiimyworks",
 		linkedin: "https://www.linkedin.com/in/paul-dionisio-71321b24b/",
-		instagram: "https://instagram.com/",
+		instagram: "https://www.instagram.com/titor399/",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://web.facebook.com/profile.php?id=61554273886646/",
 	},
