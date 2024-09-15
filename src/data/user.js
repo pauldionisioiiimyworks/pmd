@@ -7,12 +7,12 @@ const INFO = {
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
+		twitter: "https://x.com/",
+		github: "https://github.com/pauldionisioiiimyworks",
+		linkedin: "https://www.linkedin.com/in/paul-dionisio-71321b24b/",
 		instagram: "https://instagram.com/",
 		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		facebook: "https://web.facebook.com/profile.php?id=61554273886646/",
 	},
 
 	homepage: {
